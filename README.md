@@ -2,7 +2,7 @@
 
 # Usage
 1. Set up Twitter App
-  * Set callback url http://localhost:8080
+    * Set callback url http://localhost:8080
 1. Download binary
 1. Start twitter-token
 1. Enter Consumer Key and Consumer Secret
